@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Jacques!
 
-<!--
-**jverre/jverre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building [Opik](https://github.com/comet-ml/opik) - an open-source LLM development platform for experimenting with and understanding the world of Large Language Models.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ [Opik](https://github.com/comet-ml/opik) - Open-source LLM development platform
+- 🛠️ [Chrome MCP Server](https://github.com/jverre/chrome-mcp-server) - Minimal Chrome headless server
+
+## Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacquesverre.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacques-verré-27a4965b)
+
+---
+⭐ Contributions welcome on any of my projects!

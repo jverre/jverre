@@ -8,5 +8,9 @@ Head of Product [@comet-ml](https://github.com/comet-ml), building [Opik](https:
 - 🔧 [Chrome MCP Server](https://github.com/jverre/chrome-mcp-server) - Minimal Chrome MCP server to be used with Cursor
 - 📝 [Personal Website](https://github.com/jverre/website) - Blog built with Cursor
 
+## Latest posts
+
+- 🖥️ [MCP Servers are great ! Wait are they really?](https://jacquesverre.com/blog/mcp-servers)
+
 ---
 📫 Read more about my work at [jacquesverre.com](https://jacquesverre.com)

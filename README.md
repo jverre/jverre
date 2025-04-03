@@ -5,6 +5,7 @@ Head of Product [@comet-ml](https://github.com/comet-ml), building [Opik](https:
 ## Current Projects
 
 - 🚀 [Opik](https://github.com/comet-ml/opik) - Open-source LLM development platform
+- 🤖 [AI SDK](https://github.com/jverre/ai-sdk) - A Python port of the AI SDK by Vercel, makes calling LLMs easy !
 - 🔧 [Chrome MCP Server](https://github.com/jverre/chrome-mcp-server) - Minimal Chrome MCP server to be used with Cursor
 - 📝 [Personal Website](https://github.com/jverre/website) - Blog built with Cursor
 
